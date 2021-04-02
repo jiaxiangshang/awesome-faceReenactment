@@ -26,7 +26,7 @@
 23. [2020-05 CVPR Learning Identity-Invariant Motion Representations for Cross-ID Face Reenactment](http://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Learning_Identity-Invariant_Motion_Representations_for_Cross-ID_Face_Reenactment_CVPR_2020_paper.pdf)
 24. [2020-08 MM Mesh Guided One-shot Face Reenactment using Graph Convolutional Networks](http://arxiv.org/abs/2008.07783)
 25. [2020-08 MM A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](http://arxiv.org/abs/2008.10010)
-26. [2020-08 ECCV Fast Bi-layer Neural Synthesis of One-Shot Realistic Head Avatars](http://arxiv.org/abs/2008.10174) [Code] (https://github.com/saic-violet/bilayer-model)
+26. [2020-08 ECCV Fast Bi-layer Neural Synthesis of One-Shot Realistic Head Avatars](http://arxiv.org/abs/2008.10174) [Code](https://github.com/saic-violet/bilayer-model)
 27. [2020-10 arxiv LandmarkGAN: Synthesizing Faces from Landmarks](http://arxiv.org/abs/2011.00269)
 28. [2020-11 arxiv FACEGAN: Facial Attribute Controllable rEenactment GAN](http://arxiv.org/abs/2011.04439)
 29. [2020-11 arxiv One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](http://arxiv.org/abs/2011.15126)
